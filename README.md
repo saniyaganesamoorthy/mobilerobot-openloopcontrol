@@ -91,9 +91,8 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 
-![Alt text](1.jpg)
-![Alt text](2.jpg)
-
+![Alt text](1.1.png)
+![Alt text](1.2.png)
 
 ## MobileRobot Movement Video:
 
